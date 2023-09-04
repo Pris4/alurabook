@@ -23,4 +23,4 @@ Projeto feito durante o Curso de HTML e CSS: responsividade com mobile-first
 
 ### Link do site da AluraBooks: https://pris4.github.io/alurabook/
 ### Linkedin: https://www.linkedin.com/in/priscila-ribeiro-e-silva/
-### Link do Portifólio: https://portifolio-two-beige.vercel.app/![image](https://github.com/Pris4/alurabook/assets/134077728/0328799b-c6b5-44b4-9c28-c56b410e742b)
+### Link do Portifólio: https://portifolio-two-beige.vercel.app
