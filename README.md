@@ -5,10 +5,10 @@ Projeto feito durante o Curso de HTML e CSS: responsividade com mobile-first
 ![image](https://github.com/Pris4/alurabook/blob/main/img/Layout428.png)
 
 ## Layout 1024px
-![image] (https://github.com/Pris4/alurabook/blob/main/img/Layout1024.png)
+![image](https://github.com/Pris4/alurabook/blob/main/img/Layout1024.png)
 
 ## Layout 1728px
-![image] (https://github.com/Pris4/alurabook/blob/main/img/Layout1728.png)
+![image](https://github.com/Pris4/alurabook/blob/main/img/Layout1728.png)
 
 ## Ferramentas utilizadas:
 * Acessar, visualizar e baixar imagens do projeto no Figma
